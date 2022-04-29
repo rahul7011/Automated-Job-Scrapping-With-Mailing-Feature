@@ -16,11 +16,12 @@ Created an automated job scrapper for tech jobs along with an additional feature
  <tr>
   <td>
      <p align="center">TimesJob JSON file</p>
-   <img width="450" alt="3" src="https://user-images.githubusercontent.com/52202163/165314324-36f558a6-65ec-4754-8a3f-1de91bba6127.png">
+   <img width="450" alt="4" src="https://user-images.githubusercontent.com/52202163/165314332-83c2293e-2ecf-41a9-9582-2fc928ef7bc4.png">
+   
   </td>
   <td>
      <p align="center">InternShala JSON file</p>
-   <img width="450" alt="4" src="https://user-images.githubusercontent.com/52202163/165314332-83c2293e-2ecf-41a9-9582-2fc928ef7bc4.png">
+   <img width="450" alt="3" src="https://user-images.githubusercontent.com/52202163/165314324-36f558a6-65ec-4754-8a3f-1de91bba6127.png">
    </td>
   </tr>
   <tr>
