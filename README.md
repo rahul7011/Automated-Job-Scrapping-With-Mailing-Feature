@@ -1,6 +1,13 @@
 # Automated-Job-Scrapping-With-Mailing-Feature
 Created an automated job scrapper for tech jobs along with an additional feature i.e., regular mail update to client about latest jobs. 
 
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)   ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,vscode" />
+  </a>
+</p>
+
 ## Screenshots
 <table>
  <tr>
